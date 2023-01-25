@@ -1,7 +1,9 @@
 # Today I learned: 
 
 -Some of the basics of GitHub
+
 -How to create a repository 
+
 -Some important terminology, such as pull requests 
 
 # I am still confused by 
